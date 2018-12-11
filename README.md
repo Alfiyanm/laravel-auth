@@ -1,7 +1,7 @@
 # laravel-auth
 simple auth
 
-#install localy
+# install locally
 
 1. clone this repo
 ```bash
